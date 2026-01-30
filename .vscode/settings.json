@@ -1,5 +1,7 @@
 {
   "python-envs.defaultEnvManager": "ms-python.python:conda",
   "python-envs.defaultPackageManager": "ms-python.python:conda",
-  "python-envs.pythonProjects": []
+  "python-envs.pythonProjects": [],
+  "snyk.advanced.organization": "37ddbd43-c488-41c0-b7fc-c74ed7c36f21",
+  "snyk.advanced.autoSelectOrganization": true
 }
